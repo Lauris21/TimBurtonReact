@@ -1,0 +1,52 @@
+{
+  "TimBurtonMovies": [
+    {
+      "title": "Eduardo Manostijeras",
+      "poster": "https://image.tmdb.org/t/p/original/qxx4CpV2T3zXKot3qSm8RxgQ5sE.jpg",
+      "año": 1990,
+      "description": "Cuenta la historia un joven creado por un inventor y que quedó inacabado tras su muerte, con tijeras en lugar de manos y abandonado en una solitaria mansión.",
+      "id": 1
+    },
+    {
+      "title": "Batman",
+      "poster": "https://i0.wp.com/batman-news.com/wp-content/uploads/2016/06/Batman1989.jpg",
+      "año": 1989,
+      "description": "Un niño rico pierde a sus padres tras una agresión y se convierte en una especie de vigilante que lucha por la justicia fuera del sistema en las calles de Gotham.",
+      "id": 2
+    },
+    {
+      "title": "Bitelchús",
+      "poster": "https://i.pinimg.com/474x/68/dd/86/68dd868afef62fd02644d60994434ac9.jpg",
+      "año": 1988,
+      "description": "Un matrimonio de fantasmas contrata los servicios de Bitelchús para que ahuyente a los mortales que están ocupando su casa.",
+      "id": 3
+    },
+    {
+      "title": "Sleepy Hollow",
+      "poster": "https://cdn.shopify.com/s/files/1/0482/3452/8936/products/Sleepy-Hollow-Poster-Films-Vibez-1629565268_1024x1024.jpg",
+      "año": 1999,
+      "description": "ambientada en el siglo XVIII, donde un investigador es enviado a un pequeño pueblo para descubrir qué hay de verdad en la leyenda de un jinete sin cabeza que aterroriza a los habitantes del lugar.",
+      "id": 4
+    },
+    {
+      "title": "Novia cadáver",
+      "poster": "https://www.ecartelera.com/carteles/400/483/001.jpg",
+      "año": 2005,
+      "description": "Trata de un hombre que pone por accidente un anillo de matrimonio en el dedo de una mujer muerta, y entonces la muerta se levantará para reclamar sus derechos como novia.",
+      "id": 5
+    },
+    {
+      "title": "Charlie y la fábrica de chocolate",
+      "poster": "https://cdn.sincroguia.tv/uploads/programs/c/h/a/charlie-y-la-fabrica-de-chocolate-poster-118552_SPA-47_V.jpg",
+      "año": 2005,
+      "description": "adaptación de la novela de Roald Dahl, trara de un niño que recibe el billete dorado para visitar la mágica fábrica de un excéntrico chocolatero.",
+      "id": 6
+    },
+    {
+      "title": "Big Fish",
+      "poster": "https://m.media-amazon.com/images/I/515K5zuFI8L._AC_.jpg",
+      "año": "2003",
+      "id": "5d194811-db70-4fde-8a8c-9bb8dbbfb53d"
+    }
+  ]
+}
