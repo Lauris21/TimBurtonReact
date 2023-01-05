@@ -69,7 +69,7 @@ a {
  }
 
  .home > button {
-  width: 35%;
+  width: 270px;
   margin: auto;
   height: 2rem;
   border-radius: 10px;
@@ -81,11 +81,12 @@ a {
  .introImg {
   display: flex;
   flex-direction: row-reverse;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-around;
-  width: 75%;
+  justify-content: center;
+  width: 90%;
   margin: auto;
-  gap: 4rem;
+  gap: 3rem;
  }
 
  .intro {
@@ -373,14 +374,14 @@ a {
     .introImg > button {
       width: 200px;
     }
-    .home > button {
-      width: 200px;
-    } 
     .finder > input {
       width: 200px;
     }
     .finder > button {
       width: 200px;
+    }
+    .finder > h2 {
+      font-size: 2rem;
     }
     .formMovie > form > input {
       width: 200px;
@@ -393,5 +394,11 @@ a {
     }
     .figureItem > div > img {
       width: 200px;
+    }
+    .moviesGallery > h2 {
+      font-size: 2.5rem;
+    }
+    .figurFinder > a > h2 {
+      font-size: 2.5rem;
     }
   }
