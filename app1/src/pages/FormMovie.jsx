@@ -25,7 +25,7 @@ const FormMovie = () => {
   const postMovie = async (item) => {
     axios({
       method: "post",
-      url: "http://localhost:8080/TimBurtonMovies/",
+      url: "https://timburtonblog.onrender.com/TimBurtonMovies",
       data: item,
     });
   };
